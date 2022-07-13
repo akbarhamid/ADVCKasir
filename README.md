@@ -22,12 +22,12 @@ aaa
 
 ### Form Gudang
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72149133/178625531-80864e02-29e6-4218-9399-60e5829654e6.png" style="width: 40%;">
+<img src="https://user-images.githubusercontent.com/72149133/178625531-80864e02-29e6-4218-9399-60e5829654e6.png" style="width: 70%;">
 </p>
 
 ### Form Kasir
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72149133/178625547-5806cb75-b1b7-47eb-a4f0-43f5d1b62a4a.png" style="width: 50%;">
+<img src="https://user-images.githubusercontent.com/72149133/178625547-5806cb75-b1b7-47eb-a4f0-43f5d1b62a4a.png" style="width: 70%;">
 </p>
 
 ### Faktur Penjualan
