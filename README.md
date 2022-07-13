@@ -8,9 +8,9 @@ aaa
 ### Splash Screen
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72149133/178625341-f4f42fb8-612d-4fd9-a360-0aca8d92fa79.png" style="width: 50%;">
-<img src="https://user-images.githubusercontent.com/72149133/178625368-f32a3cf5-b30f-43fe-9259-4650e6839c46.png" style="width: 50%;">
-<img src="https://user-images.githubusercontent.com/72149133/178625392-eeff871e-0a42-440b-91da-60138702f77c.png" style="width: 50%;">
+<img src="https://user-images.githubusercontent.com/72149133/178625341-f4f42fb8-612d-4fd9-a360-0aca8d92fa79.png" style="width: 30%;">
+<img src="https://user-images.githubusercontent.com/72149133/178625368-f32a3cf5-b30f-43fe-9259-4650e6839c46.png" style="width: 30%;">
+<img src="https://user-images.githubusercontent.com/72149133/178625392-eeff871e-0a42-440b-91da-60138702f77c.png" style="width: 30%;">
 </p>
 
 ![gambar](https://user-images.githubusercontent.com/72149133/178625341-f4f42fb8-612d-4fd9-a360-0aca8d92fa79.png)
