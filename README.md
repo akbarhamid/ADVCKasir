@@ -32,20 +32,25 @@ aaa
 
 ### Faktur Penjualan
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72149133/178625634-34c4f9a9-749d-4b58-87ba-de662239612f.png">
+<img src="https://user-images.githubusercontent.com/72149133/178625634-34c4f9a9-749d-4b58-87ba-de662239612f.png" style="width: 70%;">
 </p>
 
 ### Form Manajer
-![gambar](https://user-images.githubusercontent.com/72149133/178625668-621137a6-0fca-40cb-9955-8ab863813260.png)
-![gambar](https://user-images.githubusercontent.com/72149133/178625673-006a0b35-5fd0-484f-9759-0a88a1bb967c.png)
-![gambar](https://user-images.githubusercontent.com/72149133/178625681-722f838b-fcf3-4cef-beb1-f7fe9434c1ff.png)
-![gambar](https://user-images.githubusercontent.com/72149133/178625684-6f3af73e-0a8e-47a3-9973-02562e5f33d2.png)
-![gambar](https://user-images.githubusercontent.com/72149133/178625690-da9f91af-83c3-40b7-80ad-36d42da2265b.png)
-![gambar](https://user-images.githubusercontent.com/72149133/178625694-09739f12-9722-4005-beb1-b0e170920e84.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72149133/178625668-621137a6-0fca-40cb-9955-8ab863813260.png" style="width: 70%;">
+<img src="https://user-images.githubusercontent.com/72149133/178625673-006a0b35-5fd0-484f-9759-0a88a1bb967c.png" style="width: 70%;">
+<img src="https://user-images.githubusercontent.com/72149133/178625681-722f838b-fcf3-4cef-beb1-f7fe9434c1ff.png" style="width: 70%;">
+<img src="https://user-images.githubusercontent.com/72149133/178625684-6f3af73e-0a8e-47a3-9973-02562e5f33d2.png" style="width: 70%;">
+<img src="https://user-images.githubusercontent.com/72149133/178625690-da9f91af-83c3-40b7-80ad-36d42da2265b.png" style="width: 70%;">
+<img src="https://user-images.githubusercontent.com/72149133/178625694-09739f12-9722-4005-beb1-b0e170920e84.png" style="width: 70%;">
+</p>
 
 ## Database
-![gambar](https://user-images.githubusercontent.com/72149133/178625741-6814266a-b757-4912-8609-d4c6d2f6fea9.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72149133/178625741-6814266a-b757-4912-8609-d4c6d2f6fea9.png">
+</p>
 ### Triger tabel "daftar_belanja"
-![gambar](https://user-images.githubusercontent.com/72149133/178625824-e0bef581-0f9f-45cb-82f4-70c51dd174fe.png)
-![gambar](https://user-images.githubusercontent.com/72149133/178625834-59537d25-ce21-4abb-b75a-4298e898908f.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72149133/178625824-e0bef581-0f9f-45cb-82f4-70c51dd174fe.png" style="width: 40%;">
+<img src="https://user-images.githubusercontent.com/72149133/178625834-59537d25-ce21-4abb-b75a-4298e898908f.png" style="width: 40%;">
+</p>
