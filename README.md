@@ -14,9 +14,11 @@ aaa
 </p>
 
 ### Autentikasi
-![gambar](https://user-images.githubusercontent.com/72149133/178625475-fbb31dfb-142c-4fe2-a1c4-d6764c700bfa.png)
-![gambar](https://user-images.githubusercontent.com/72149133/178625479-d8b43048-5fc3-4d50-b9fc-3297fed3f2a4.png)
-![gambar](https://user-images.githubusercontent.com/72149133/178625489-554cf639-aafa-4993-94e8-715037a42895.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72149133/178625475-fbb31dfb-142c-4fe2-a1c4-d6764c700bfa.png" style="width: 30%;">
+<img src="https://user-images.githubusercontent.com/72149133/178625479-d8b43048-5fc3-4d50-b9fc-3297fed3f2a4.png" style="width: 30%;">
+<img src="https://user-images.githubusercontent.com/72149133/178625489-554cf639-aafa-4993-94e8-715037a42895.png" style="width: 30%;">
+</p>
 
 ### Form Gudang
 ![gambar](https://user-images.githubusercontent.com/72149133/178625531-80864e02-29e6-4218-9399-60e5829654e6.png)
