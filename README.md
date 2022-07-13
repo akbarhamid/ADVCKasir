@@ -22,7 +22,7 @@ aaa
 
 ### Form Gudang
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72149133/178625531-80864e02-29e6-4218-9399-60e5829654e6.png">
+<img src="https://user-images.githubusercontent.com/72149133/178625531-80864e02-29e6-4218-9399-60e5829654e6.png" style="width: 40%;">
 </p>
 
 ### Form Kasir
