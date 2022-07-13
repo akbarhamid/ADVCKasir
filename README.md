@@ -1,7 +1,18 @@
 # ADVCKasir
 
 ## Deskripsi
-aaa
+ADVCKasir adalah aplikasi atau program yang berbasis pada database dimana fungsi utamanya yaitu untuk membantu para pemilik usaha untuk bisa melakukan transaksi penjualan dengan lebih praktis dibandingkan menggunakan mesin kasir konvensional. Penggunaan program aplikasi kasir memungkinkan untuk memperoleh analisis penjualan secara real-time.<br/>
+Pengembangan program kasir yang dibangun menggunakan bahasa pemrograman Java pada NetBeans yang mana sebagai bahasa pemrograman utama dan untuk mencetak invoice atau nota penjualan adalah menggunakan javascript, css dan php. Sedangkan database yang digunakan adalah menggunakan MySQL.
+
+## Fitur
+Fitur program kasir dibagi berdasarkan jenis user, yaitu:
+1. Gudang
+   - Melakukan CRUD data barang
+2. Kasir
+   - Melakukan CRUD pada transaksi penjualan dan mencetak nota penjualan
+3. Manajer
+   - Mengakses laporan penjualan dan barang
+   - Melakukan CRUD pada data user
 
 ## Implementasi
 
