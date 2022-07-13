@@ -21,13 +21,19 @@ aaa
 </p>
 
 ### Form Gudang
-![gambar](https://user-images.githubusercontent.com/72149133/178625531-80864e02-29e6-4218-9399-60e5829654e6.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72149133/178625531-80864e02-29e6-4218-9399-60e5829654e6.png">
+</p>
 
 ### Form Kasir
-![gambar](https://user-images.githubusercontent.com/72149133/178625547-5806cb75-b1b7-47eb-a4f0-43f5d1b62a4a.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72149133/178625547-5806cb75-b1b7-47eb-a4f0-43f5d1b62a4a.png">
+</p>
 
 ### Faktur Penjualan
-![gambar](https://user-images.githubusercontent.com/72149133/178625634-34c4f9a9-749d-4b58-87ba-de662239612f.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72149133/178625634-34c4f9a9-749d-4b58-87ba-de662239612f.png">
+</p>
 
 ### Form Manajer
 ![gambar](https://user-images.githubusercontent.com/72149133/178625668-621137a6-0fca-40cb-9955-8ab863813260.png)
