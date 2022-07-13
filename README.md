@@ -13,10 +13,6 @@ aaa
 <img src="https://user-images.githubusercontent.com/72149133/178625392-eeff871e-0a42-440b-91da-60138702f77c.png" style="width: 30%;">
 </p>
 
-![gambar](https://user-images.githubusercontent.com/72149133/178625341-f4f42fb8-612d-4fd9-a360-0aca8d92fa79.png)
-![gambar](https://user-images.githubusercontent.com/72149133/178625368-f32a3cf5-b30f-43fe-9259-4650e6839c46.png)
-![gambar](https://user-images.githubusercontent.com/72149133/178625392-eeff871e-0a42-440b-91da-60138702f77c.png)
-
 ### Autentikasi
 ![gambar](https://user-images.githubusercontent.com/72149133/178625475-fbb31dfb-142c-4fe2-a1c4-d6764c700bfa.png)
 ![gambar](https://user-images.githubusercontent.com/72149133/178625479-d8b43048-5fc3-4d50-b9fc-3297fed3f2a4.png)
