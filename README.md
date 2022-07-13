@@ -32,7 +32,7 @@ aaa
 
 ### Faktur Penjualan
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72149133/178625634-34c4f9a9-749d-4b58-87ba-de662239612f.png" style="width: 70%;">
+<img src="https://user-images.githubusercontent.com/72149133/178625634-34c4f9a9-749d-4b58-87ba-de662239612f.png">
 </p>
 
 ### Form Manajer
@@ -47,8 +47,9 @@ aaa
 
 ## Database
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72149133/178625741-6814266a-b757-4912-8609-d4c6d2f6fea9.png">
+<img src="https://user-images.githubusercontent.com/72149133/178625741-6814266a-b757-4912-8609-d4c6d2f6fea9.png" style="width: 70%;">
 </p>
+
 ### Triger tabel "daftar_belanja"
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72149133/178625824-e0bef581-0f9f-45cb-82f4-70c51dd174fe.png" style="width: 40%;">
