@@ -27,7 +27,7 @@ aaa
 
 ### Form Kasir
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72149133/178625547-5806cb75-b1b7-47eb-a4f0-43f5d1b62a4a.png">
+<img src="https://user-images.githubusercontent.com/72149133/178625547-5806cb75-b1b7-47eb-a4f0-43f5d1b62a4a.png" style="width: 50%;">
 </p>
 
 ### Faktur Penjualan
